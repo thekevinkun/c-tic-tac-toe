@@ -17,7 +17,7 @@ Playing Tic Tac Toe on your terminal.
 2. Next, run: ``./tictactoe`` 
 3. Then, the board will draw. And you can follow the instructions
 
-## Screesnshots
+## Screenshots
 ### 01. Welcome Screen and Choose Number of Player
 ![Screenshot (35)](https://github.com/user-attachments/assets/d4aba134-8078-47cb-ad62-82248fbe06b4)
 
