@@ -1,5 +1,5 @@
-# tic-tac-toe
-C Language Program: Tic Tac Toe
+# tic tac toe
+A command-line tic tac toe game built in C featuring Minmax Algorithm.
 
 ## Description
 Playing Tic Tac Toe on your terminal.
